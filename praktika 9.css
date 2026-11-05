@@ -5,3 +5,34 @@ background:url('https://raw.githubusercontent.com/Dmitrykonn/locals/refs/heads/m
 height:4600px;
 
 }	
+div#parallax-bg-1{
+
+	position: fixed;
+
+	width: 1200px;
+
+	top: 0;
+
+	left: 50%; 
+
+	margin-left: -600px; 
+
+	z-index: 1;
+
+}
+
+div#parallax-bg-2{
+
+	position: fixed;
+
+	width: 1200px;
+
+	top: 0;
+
+	left: 50%; 
+
+	margin-left: -600px; 
+
+	z-index: 2;
+
+}
