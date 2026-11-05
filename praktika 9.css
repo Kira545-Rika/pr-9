@@ -242,4 +242,64 @@ div#bg-1-5{
 	left:-200px;
 
 }  
+.Babochka1 {
+
+  animation: Babochka1 5s infinite;
+
+}
+@keyframes Babochka1 {
+
+  0% {
+
+    transform: translateY(0);
+
+  }
+
+  100% {
+
+    transform: translateY(400vh);
+
+  }
+
+}
+.Babochka2 {
+
+  animation: Babochka2 6s infinite;
+
+}
+@keyframes Babochka2 {
+
+  0% {
+
+    transform: translateY(0);
+
+  }
+
+  100% {
+
+    transform: translateY(400vh);
+
+  }
+
+}
+.Babochka3 {
+
+  animation: Babochka3 7s infinite;
+
+}
+@keyframes Babochka3 {
+
+  0% {
+
+    transform: translateY(0);
+
+  }
+
+  100% {
+
+    transform: translateY(400vh);
+
+  }
+
+}
 
