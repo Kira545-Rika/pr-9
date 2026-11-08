@@ -1,8 +1,8 @@
 body {
 
 background:url('https://raw.githubusercontent.com/Kira545-Rika/pr-9/1142d3c36648b59e280bc53d3dfae09b1f820d15/Oblaka.png');
-height:4600px;
-
+height: 4600px;
+margin: 0;
 }	
 div#parallax-bg-1{
 
@@ -251,7 +251,7 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(-80px);
 
   }
 
@@ -271,7 +271,7 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(-80px);
 
   }
 
@@ -291,7 +291,7 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(-80px);
 
   }
 
